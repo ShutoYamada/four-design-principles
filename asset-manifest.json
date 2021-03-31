@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/four-design-principles/static/css/main.0602833c.chunk.css",
+    "main.js": "/four-design-principles/static/js/main.8e7f458e.chunk.js",
+    "main.js.map": "/four-design-principles/static/js/main.8e7f458e.chunk.js.map",
+    "runtime-main.js": "/four-design-principles/static/js/runtime-main.c6f5a5ca.js",
+    "runtime-main.js.map": "/four-design-principles/static/js/runtime-main.c6f5a5ca.js.map",
+    "static/js/2.9cf5290b.chunk.js": "/four-design-principles/static/js/2.9cf5290b.chunk.js",
+    "static/js/2.9cf5290b.chunk.js.map": "/four-design-principles/static/js/2.9cf5290b.chunk.js.map",
+    "static/js/3.e6d5343e.chunk.js": "/four-design-principles/static/js/3.e6d5343e.chunk.js",
+    "static/js/3.e6d5343e.chunk.js.map": "/four-design-principles/static/js/3.e6d5343e.chunk.js.map",
+    "index.html": "/four-design-principles/index.html",
+    "static/css/main.0602833c.chunk.css.map": "/four-design-principles/static/css/main.0602833c.chunk.css.map",
+    "static/js/2.9cf5290b.chunk.js.LICENSE.txt": "/four-design-principles/static/js/2.9cf5290b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6f5a5ca.js",
+    "static/js/2.9cf5290b.chunk.js",
+    "static/css/main.0602833c.chunk.css",
+    "static/js/main.8e7f458e.chunk.js"
+  ]
+}
